@@ -1,7 +1,7 @@
 
 # Contributing to GPTInteract
 
-Thank you for considering contributing to **GPTInteract**! Contributions are welcome from the community, whether you're submitting bug reports, proposing new features, or helping to improve the documentation.
+Thank you for considering contributing to **AI-For_Experts**! Contributions are welcome from the community, whether you're submitting bug reports, proposing new features, or helping to improve the documentation.
 
 ## How to Contribute
 
