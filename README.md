@@ -640,8 +640,6 @@ The use of LLMs in professional settings raises important ethical considerations
 
 ## Contributing
 
-## Contributing
-
 We welcome contributions from the community! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
 ---
