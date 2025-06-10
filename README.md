@@ -27,9 +27,11 @@ This repository explores the transformative potential of large language models (
     * [Environmental and Agricultural](#environmental-and-agricultural)
     * [Nonprofit and Social Services](#nonprofit-and-social-services)
 3. [Healthcare AI: An In-Depth Example](#healthcare-ai-an-in-depth-example)
-4. [Ethical Considerations and Responsible AI](#ethical-considerations-and-responsible-ai)
-5. [Contributing](#contributing)
-6. [License](#license)
+4. [Marketing AI: An In-Depth Example](#marketing-ai-an-in-depth-example)
+5. [Ethical Considerations and Responsible AI](#ethical-considerations-and-responsible-ai)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Roadmap](ROADMAP.md)
 
 ---
 
@@ -623,6 +625,12 @@ Explore a detailed example of how LLMs are being applied to healthcare in our de
 
 ---
 
+## Marketing AI: An In-Depth Example
+
+For a focused look at how LLMs can accelerate marketing workflows, see the [Marketing AI](./examples/marketing-ai/) folder. It offers prompt strategies for audience research, campaign ideation, and content optimization.
+
+---
+
 ## Ethical Considerations and Responsible AI
 
 
@@ -656,6 +664,12 @@ We welcome contributions from the community! Please see our [CONTRIBUTING.md](CO
 
 [MIT License](LICENSE)
 
+---
+
+## Roadmap
+
+For planned improvements and future ideas, see the [Roadmap](ROADMAP.md).
+
 
 
 
@@ -669,5 +683,7 @@ AI-For-Experts/
 ├── CONTRIBUTING.md     # Guidelines for contributing to the project
 ├── LICENSE             # MIT License for the project
 └── examples/             # Folder for practical examples and in-depth case studies
-    └── healthcare-ai/    # Folder for your healthcare AI article
-        └── healthcare-prompt-engineering.md
+    ├── healthcare-ai/    # Folder for your healthcare AI article
+    │   └── healthcare-prompt-engineering.md
+    └── marketing-ai/     # Folder for marketing prompt strategies
+        └── marketing-prompt-strategies.md
