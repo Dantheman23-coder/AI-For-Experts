@@ -30,7 +30,8 @@ This repository explores the transformative potential of large language models (
 4. [Marketing AI: Practical Example](#marketing-ai-practical-example)
 5. [Ethical Considerations and Responsible AI](#ethical-considerations-and-responsible-ai)
 6. [Contributing](#contributing)
-7. [License](#license)
+7. [Roadmap](#roadmap)
+8. [License](#license)
 
 ---
 
