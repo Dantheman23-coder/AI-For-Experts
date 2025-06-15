@@ -28,10 +28,11 @@ This repository explores the transformative potential of large language models (
     * [Nonprofit and Social Services](#nonprofit-and-social-services)
 3. [Healthcare AI: An In-Depth Example](#healthcare-ai-an-in-depth-example)
 4. [Marketing AI: An In-Depth Example](#marketing-ai-an-in-depth-example)
-5. [Ethical Considerations and Responsible AI](#ethical-considerations-and-responsible-ai)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Roadmap](ROADMAP.md)
+5. [Expert Prompt Depository](#expert-prompt-depository)
+6. [Ethical Considerations and Responsible AI](#ethical-considerations-and-responsible-ai)
+7. [Contributing](#contributing)
+8. [License](#license)
+9. [Roadmap](ROADMAP.md)
 
 ---
 
@@ -631,6 +632,12 @@ For a focused look at how LLMs can accelerate marketing workflows, see the [Mark
 
 ---
 
+## Expert Prompt Depository
+
+Discover a curated list of advanced prompts in the [Expert Prompt Depository](./examples/expert-prompts/expert-prompt-depository.md). These prompts encourage experimental uses of LLMs for research, creativity, and personal growth.
+
+---
+
 ## Ethical Considerations and Responsible AI
 
 
@@ -685,5 +692,7 @@ AI-For-Experts/
 └── examples/             # Folder for practical examples and in-depth case studies
     ├── healthcare-ai/    # Folder for your healthcare AI article
     │   └── healthcare-prompt-engineering.md
-    └── marketing-ai/     # Folder for marketing prompt strategies
-        └── marketing-prompt-strategies.md
+    ├── marketing-ai/     # Folder for marketing prompt strategies
+    │   └── marketing-prompt-strategies.md
+    └── expert-prompts/   # Advanced prompt collection
+        └── expert-prompt-depository.md
