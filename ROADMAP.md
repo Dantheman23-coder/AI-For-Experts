@@ -1,17 +1,25 @@
-# Roadmap
+# Production Launch System Roadmap
 
-This project aims to showcase practical uses of large language models across many professions. Future improvements could include:
+A living plan for expanding the repository with the practices teams need to take AI products to production safely and efficiently.
 
-- **Additional Examples:** Expand the `examples/` directory with more industry-specific guides.
-- **Tool Integrations:** Provide starter scripts demonstrating how to call LLM APIs from Python or other languages.
-- **Community Contributions:** Collect real-world case studies from users and highlight them in the README.
-- **Ethics Resources:** Curate links to best practices for responsible AI adoption in each field.
-- **Marketing AI Example:** Create a concise guide showing how LLMs can support
-  campaign ideation, audience research, and content optimization. Link this
-  example from the README and expand the repository structure accordingly.
-- **Interactive Tutorials:** Explore notebook-based walkthroughs that let users
-  experiment with prompts and observe results directly.
-- **Automated Documentation Tests:** Add tests to ensure links remain valid and
-  referenced files exist.
+## Q1: Stabilise the Foundations
+- ✅ Replace legacy content with production-focused blueprints, checklists, and runbooks.
+- [ ] Add sample architecture diagrams (Lucidchart, Mermaid) aligned to the blueprint.
+- [ ] Publish template model cards and evaluation scorecards.
 
-These ideas help keep the documentation relevant and encourage contributions that push the repository forward.
+## Q2: Deepen Operational Coverage
+- [ ] Release incident response and postmortem templates tailored for AI systems.
+- [ ] Add procurement and vendor risk assessment guides for third-party models and APIs.
+- [ ] Document cost management strategies (autoscaling, caching, model selection).
+
+## Q3: Expand Domain Playbooks
+- [ ] Produce sector-specific adaptations (healthcare, finance, public sector) with regulatory overlays.
+- [ ] Provide localisation guidance for multi-region deployments and data residency.
+- [ ] Share success stories and metrics from production launches using this toolkit.
+
+## Q4: Automate Readiness
+- [ ] Build CI scripts that check documentation completeness, evaluation coverage, and guardrail configs.
+- [ ] Integrate synthetic monitoring scripts for continuous quality validation.
+- [ ] Launch community office hours and contributor spotlight series.
+
+Have ideas or urgent needs? Open an issue so we can prioritise what helps the community ship production-grade AI faster.
