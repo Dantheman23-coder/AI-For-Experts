@@ -1,43 +1,26 @@
+# Contributing to the Production Launch System
 
-# Contributing to AI-For-Experts
+Thank you for helping practitioners ship AI products responsibly. Every contribution should make it easier for cross-functional teams to reach production with clarity and confidence.
 
-Thank you for considering contributing to **AI-For-Experts**! Contributions are welcome from the community, whether you're submitting bug reports, proposing new features, or helping to improve the documentation.
+## What to Contribute
+- **Blueprints:** Architecture diagrams, governance models, or operating agreements that are field-tested and reusable.
+- **Checklists:** Production gating criteria, audit templates, or readiness assessments that keep launches accountable.
+- **Runbooks:** Step-by-step guides for pilots, incident response, or scale-up phases.
+- **Metrics:** Dashboards, evaluation strategies, or analytics plans that translate usage into decisions.
+- **Evidence:** Case studies, benchmarks, or artifacts that validate practices in real-world deployments.
 
-## How to Contribute
+## Collaboration Workflow
+1. **Explore:** Review existing materials to prevent duplication and identify integration points.
+2. **Propose:** Open an issue describing the problem, proposed addition, and expected impact on production readiness.
+3. **Build:** Work in small, reviewable increments. Include checklists, tables, or diagrams where they aid adoption.
+4. **Verify:** Run `pytest` and any relevant validation steps (diagram exports, linting) before submitting.
+5. **Share:** Submit a pull request summarising changes, evidence gathered, and adoption guidance.
 
-### 1. Reporting Bugs
-If you encounter any bugs or issues, please open an issue in the [Issues section](https://github.com/your-repo/issues) of the GitHub repository. Be sure to include:
-- A clear and descriptive title
-- A detailed description of the issue, including steps to reproduce it
-- Any relevant error messages or screenshots
+## Style Guidelines
+- **Voice:** Write in clear, direct language with actionable recommendations.
+- **Structure:** Use headings, numbered steps, and tables to make scanning effortless.
+- **Traceability:** Reference standards, regulations, or metrics where applicable.
+- **Inclusivity:** Surface considerations for diverse users, geographies, and accessibility needs.
 
-### 2. Suggesting Features or Enhancements
-We welcome ideas and feature requests! If you have a suggestion, please open an issue labeled "enhancement" and include:
-- A detailed description of the proposed feature or improvement
-- The use case or problem it addresses
-- Any potential implementation ideas or resources that may help
-
-### 3. Submitting Pull Requests
-If you’re ready to contribute code or documentation, follow these steps:
-1. Fork the repository.
-2. Create a new branch for your changes (`git checkout -b feature/your-feature-name`).
-3. Make your changes, and test them if applicable.
-4. Ensure your code follows the project’s coding standards.
-5. Commit your changes with clear commit messages.
-6. Push to your branch (`git push origin feature/your-feature-name`).
-7. Submit a pull request, referencing the issue (if applicable) and providing a summary of the changes.
-
-### 4. Improving Documentation
-You can contribute by improving or expanding the documentation, especially the example use cases and advanced techniques. Feel free to submit changes or enhancements via pull requests.
-
----
-
-## Guidelines
-- **Code of Conduct**: Be respectful, professional, and inclusive. Help us foster a welcoming environment for all.
-- **Code Style**: Please follow any established style guidelines (e.g., Python for scripting). If not explicitly stated, strive for clean, readable, and well-documented code.
-- **Tests**: When contributing new code, ensure that it’s tested. If relevant, include or update existing tests to reflect your changes.
-
----
-
-## Getting Help
-If you have any questions or need help, feel free to open an issue or reach out to the project maintainers.
+## Support
+If you encounter friction, open a discussion or issue. Production-ready AI is a team sport—thanks for building with us.
